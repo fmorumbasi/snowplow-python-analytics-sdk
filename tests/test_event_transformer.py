@@ -30,6 +30,7 @@ unstruct_json = """{
     }
   }"""
 
+#unstruct_json
 contexts_json = """{
     "schema": "iglu:com.snowplowanalytics.snowplow/contexts/jsonschema/1-0-0",
     "data": [
